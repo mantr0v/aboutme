@@ -1,6 +1,19 @@
-<style>
-  body {
-    transform: scale(1.5);
+body {
+    transform: scale(1.3);
     transform-origin: top left;
-  }
-</style>
+    width: 130%;
+}
+
+#page-container {
+    transform: scale(1.3);
+    transform-origin: top left;
+    width: 130%;
+}
+
+.t {
+    font-size: 1.3em !important; /* Увеличение текста */
+}
+
+img {
+    width: 130%;
+}
